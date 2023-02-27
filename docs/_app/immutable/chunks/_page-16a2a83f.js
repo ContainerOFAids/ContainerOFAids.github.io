@@ -1,0 +1,1 @@
+import{_ as e}from"./preload-helper-aa6bc0ce.js";async function o({params:t}){return{markdown:(await e(()=>import("./"+t.id+".md"),[],import.meta.url)).default}}const _=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));export{_,o as l};
